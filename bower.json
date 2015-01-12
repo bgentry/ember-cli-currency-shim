@@ -1,0 +1,19 @@
+{
+  "name": "ember-cli-currency-shim",
+  "version": "0.0.1",
+  "authors": [
+    "Blake Gentry <blakesgentry@gmail.com>"
+  ],
+  "main": "currency-shim.js",
+  "license": "MIT",
+  "homepage": "https://github.com/bgentry/ember-cli-currency-shim",
+  "ignore": [
+    "**/.*",
+    "vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "currency.js": "https://github.com/bgentry/currency.js.git#0.3.0-bower"
+  }
+}
