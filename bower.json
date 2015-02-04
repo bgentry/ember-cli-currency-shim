@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-currency-shim",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "authors": [
     "Blake Gentry <blakesgentry@gmail.com>"
   ],
@@ -14,6 +14,6 @@
     "tests"
   ],
   "dependencies": {
-    "currency.js": "https://github.com/bgentry/currency.js.git#0.3.0-bower"
+    "currency.js": "0.3.2"
   }
 }
